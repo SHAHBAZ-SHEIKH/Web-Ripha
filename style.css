@@ -1,0 +1,18 @@
+/* *{
+    background-color: green;
+    color: white;
+} */
+ h1,h2,p{
+    background-color: red;
+    border: 1px solid black;
+ }
+
+.box{
+    background-color: aqua;
+    border: 2px solid green;
+}
+
+
+#myText{
+    background-color: purple;
+}
